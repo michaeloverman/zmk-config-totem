@@ -334,7 +334,7 @@ label= "BASE"                              ;
 
                 &kp SQT     &kp COMMA   &kp DOT     &kp P       &kp Y           &kp F       &kp G       &kp C       &kp R       &kp L
                 &kp A       &kp O       &kp E       &kp U       &kp I           &kp D       &kp H       &kp T       &kp N       &kp S
-   &kp BT_CLR &mt LSHFT SEMI &mt LCTRL Q &mt LALT J  &mt LGUI K  &kp X           &kp B       &mt RGUI M  &mt RALT W  &mt RCTRL V &mt RSHFT Z &kp BSLH
+   &bt BT_CLR &mt LSHFT SEMI &mt LCTRL Q &mt LALT J  &mt LGUI K  &kp X           &kp B       &mt RGUI M  &mt RALT W  &mt RCTRL V &mt RSHFT Z &kp BSLH
                                         &kp DEL     &lt NUM ESC &mo NAV        &mt RGUI RET &kp SPACE   &kp BSPC
                         >;
                 };
